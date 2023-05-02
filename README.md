@@ -103,6 +103,9 @@
   <a href="https://jestjs.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
   </a>
+  <a href="https://www.cypress.io/" target="_blank">
+    <img src="https://www.cypress.io/images/layouts/shared/navbar-brand.svg" alt="cypress" width="40" height="40" />
+  </a>
 </p>
 
 <p align-"left">
@@ -141,4 +144,14 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
 </p>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on web developement and mobile applications
+- 🌱 I’m currently learning mobile developement
+- 💬 Ask me about you can write from my linkedin account.
+-->
+### Have Fun!
+![gamegif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
 
