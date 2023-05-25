@@ -11,7 +11,7 @@
 - 🔭 I’m a blockchain developer with 3+ experience using Solidity, Go, and Rust<br>
 - 👯 I’m looking to collaborate on Web3.0<br>
 - 🏅 I have 6+ years of experience as a full-stack developer<br>
-- 
+
 # 💻 My favorite tools and skills
 <table>
   <tr>
@@ -131,7 +131,6 @@
     </td>
  </tr>
 </table>
-
 
 # 💻 Have Fun
 ![gamegif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
