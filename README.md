@@ -1,4 +1,13 @@
 <h1 align="center">Hi there👋</h1>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img  src="github-contribution-grid-snake.svg" alt="example" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=wwwhickup&title=MultiLanguage,Repositories,Stars,Commit,Followers,PullRequest&theme=cobalt" alt="developersuper" />
