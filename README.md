@@ -6,7 +6,20 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wwwhickup&label=Profile%20views&color=0e75b6&style=flat" alt="developersuper" />
 </p>
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="center">
+        <img  src="github-contribution-grid-snake.svg" alt="example" />
+      </p>
+    </td>
+  </tr>
+</table>
+# 💫 About Me
+- 🔭 I’m a blockchain developer with 3+ experience using Solidity, Go, and Rust
+- 👯 I’m looking to collaborate on Web3.0
+- 🏅 I have 6+ years of experience as a full-stack developer
+- 
 # 💻 My favorite tools and skills
 <table>
   <tr>
@@ -127,9 +140,6 @@
  </tr>
 </table>
 
-- 🔭 I’m a blockchain developer with 3+ experience using Solidity, Go, and Rust
-- 👯 I’m looking to collaborate on Web3.0
-- 🏅 I have 6+ years of experience as a full-stack developer
 
 ### Have Fun!
 ![gamegif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
